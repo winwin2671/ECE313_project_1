@@ -7,10 +7,10 @@ https://docs.astral.sh/uv/getting-started/installation/
 ## Quick Start
 
 1.  Clone the repository:
-
+```
 git clone <your-repo-url>
 cd <project-folder>
-
+```
 2.  Sync the environment:
     Run the following command to automatically install the correct Python version and all dependencies into a local .venv:
 ```
